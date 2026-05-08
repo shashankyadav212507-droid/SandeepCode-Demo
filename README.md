@@ -1,3 +1,3 @@
 # SandeepCode-Demo
 This is my first Git repository.
-Author - Sandeep Yadav
+Author - Sandeep Yadav from (BCA)
